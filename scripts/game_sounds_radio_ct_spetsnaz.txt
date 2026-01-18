@@ -1,0 +1,226 @@
+// RADIO MESSAGES
+radio.moveout.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/moveout.wav
+}
+
+radio.letsgo.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/letsgo.wav
+}
+
+radio.locknload.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/locknload.wav
+}
+
+radio.go.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/go.wav
+}
+
+
+
+radio.vip.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/vip.wav
+}
+
+Radio.CoverMe.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/ct_coverme.wav
+}
+
+Radio.YouTakeThePoint.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/takepoint.wav
+}
+
+Radio.HoldPosition.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/position.wav
+}
+
+Radio.Regroup.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/regroup.wav
+}
+
+Radio.FollowMe.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/followme.wav
+}
+
+Radio.TakingFire.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/fireassis.wav
+}
+
+Radio.GoGoGo.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/com_go.wav
+}
+
+Radio.TeamFallBack.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/fallback.wav
+}
+
+Radio.StickTogether.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/sticktog.wav
+}
+
+Radio.GetInPosition.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/com_getinpos.wav
+}
+
+Radio.StormFront.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/stormfront.wav
+}
+
+Radio.ReportInTeam.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/com_reportin.wav
+}
+
+Radio.Affirmitive.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/ct_affirm.wav
+}
+
+Radio.Roger.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/roger.wav
+}
+
+Radio.EnemySpotted.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/ct_enemys.wav
+}
+
+Radio.NeedBackup.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/ct_backup.wav
+}
+
+Radio.SectorClear.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/clear.wav
+}
+
+Radio.InPosition.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/ct_inpos.wav
+}
+
+Radio.ReportingIn.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/ct_reportingin.wav
+}
+
+Radio.GetOutOfThere.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/blow.wav
+}
+
+Radio.Negative.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/negative.wav
+}
+
+Radio.EnemyDown.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/enemydown.wav
+}
+
+Radio.FireInTheHole.ct_spetsnaz
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/ct_spetsnaz/ct_fireinhole.wav
+}

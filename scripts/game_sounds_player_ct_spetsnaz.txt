@@ -1,0 +1,82 @@
+"Flesh.BulletImpact.ct_spetsnaz"
+{
+	"CompatibilityAttenuation"	"1.0"
+	"volume"		"0.7"
+	"pitch"			"PITCH_NORM"
+	"rndwave"
+	{
+		"wave"	"player/ct_spetsnaz/bhit_flesh-1.wav"
+		"wave"	"player/ct_spetsnaz/bhit_flesh-2.wav"
+		"wave"	"player/ct_spetsnaz/bhit_flesh-3.wav"
+	}
+}
+
+"Player.DamageHelmet.ct_spetsnaz"
+{
+	"channel"	"CHAN_BODY"
+	"volume"	"VOL_NORM"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"	"player/ct_spetsnaz/bhit_helmet-1.wav"
+}
+
+"Player.FallDamage.ct_spetsnaz"
+{
+	"channel"	"CHAN_BODY"
+	"volume"	"VOL_NORM"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"rndwave"
+	{
+		"wave"		"player/ct_spetsnaz/damage1.wav"
+		"wave"		"player/ct_spetsnaz/damage2.wav"
+		"wave"		"player/ct_spetsnaz/damage3.wav"
+	}
+}
+
+"Player.Death.ct_spetsnaz"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"CompatibilityAttenuation"	"1.0"
+
+	"rndwave"
+	{
+		"wave"	"player/ct_spetsnaz/die1.wav"
+		"wave"	"player/ct_spetsnaz/die2.wav"
+		"wave"	"player/ct_spetsnaz/die3.wav"
+	}
+}
+
+"Player.DamageHeadShot.ct_spetsnaz"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"rndwave"
+	{
+		"wave"		"player/ct_spetsnaz/headshot1.wav"
+		"wave"		"player/ct_spetsnaz/headshot2.wav"
+		"wave"		"player/ct_spetsnaz/headshot3.wav"
+	}
+}
+
+"Player.DamageKevlar.ct_spetsnaz"
+{
+	"channel"	"CHAN_BODY"
+	"volume"	"VOL_NORM"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"rndwave"
+	{
+		"wave"		"player/ct_spetsnaz/bhit_kevlar-1.wav"
+		"wave"		"player/ct_spetsnaz/hs_bhit_flesh-1.wav"
+		"wave"		"player/ct_spetsnaz/hs_bhit_flesh-2.wav"
+		"wave"		"player/ct_spetsnaz/hs_bhit_flesh-3.wav"
+	}
+}

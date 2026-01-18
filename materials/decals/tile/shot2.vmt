@@ -1,0 +1,7 @@
+"DecalModulate"
+{
+	"$baseTexture" "decals\tile\shot2"
+	"$decalscale" 0.10
+	"$translucent" 1
+	"$decal" 1
+}

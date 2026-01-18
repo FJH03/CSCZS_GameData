@@ -1,0 +1,226 @@
+// RADIO MESSAGES
+radio.moveout.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/moveout.wav
+}
+
+radio.letsgo.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/letsgo.wav
+}
+
+radio.locknload.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/locknload.wav
+}
+
+radio.go.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/go.wav
+}
+
+
+
+radio.vip.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/vip.wav
+}
+
+Radio.CoverMe.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/ct_coverme.wav
+}
+
+Radio.YouTakeThePoint.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/takepoint.wav
+}
+
+Radio.HoldPosition.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/position.wav
+}
+
+Radio.Regroup.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/regroup.wav
+}
+
+Radio.FollowMe.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/followme.wav
+}
+
+Radio.TakingFire.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/fireassis.wav
+}
+
+Radio.GoGoGo.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/com_go.wav
+}
+
+Radio.TeamFallBack.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/fallback.wav
+}
+
+Radio.StickTogether.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/sticktog.wav
+}
+
+Radio.GetInPosition.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/com_getinpos.wav
+}
+
+Radio.StormFront.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/stormfront.wav
+}
+
+Radio.ReportInTeam.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/com_reportin.wav
+}
+
+Radio.Affirmitive.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/ct_affirm.wav
+}
+
+Radio.Roger.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/roger.wav
+}
+
+Radio.EnemySpotted.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/ct_enemys.wav
+}
+
+Radio.NeedBackup.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/ct_backup.wav
+}
+
+Radio.SectorClear.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/clear.wav
+}
+
+Radio.InPosition.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/ct_inpos.wav
+}
+
+Radio.ReportingIn.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/ct_reportingin.wav
+}
+
+Radio.GetOutOfThere.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/blow.wav
+}
+
+Radio.Negative.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/negative.wav
+}
+
+Radio.EnemyDown.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/enemydown.wav
+}
+
+Radio.FireInTheHole.t_guerilla
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_guerilla/ct_fireinhole.wav
+}

@@ -1,0 +1,82 @@
+"Flesh.BulletImpact.t_militia"
+{
+	"CompatibilityAttenuation"	"1.0"
+	"volume"		"0.7"
+	"pitch"			"PITCH_NORM"
+	"rndwave"
+	{
+		"wave"	"player/t_militia/bhit_flesh-1.wav"
+		"wave"	"player/t_militia/bhit_flesh-2.wav"
+		"wave"	"player/t_militia/bhit_flesh-3.wav"
+	}
+}
+
+"Player.DamageHelmet.t_militia"
+{
+	"channel"	"CHAN_BODY"
+	"volume"	"VOL_NORM"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"	"player/t_militia/bhit_helmet-1.wav"
+}
+
+"Player.FallDamage.t_militia"
+{
+	"channel"	"CHAN_BODY"
+	"volume"	"VOL_NORM"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"rndwave"
+	{
+		"wave"		"player/t_militia/damage1.wav"
+		"wave"		"player/t_militia/damage2.wav"
+		"wave"		"player/t_militia/damage3.wav"
+	}
+}
+
+"Player.Death.t_militia"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"CompatibilityAttenuation"	"1.0"
+
+	"rndwave"
+	{
+		"wave"	"player/t_militia/die1.wav"
+		"wave"	"player/t_militia/die2.wav"
+		"wave"	"player/t_militia/die3.wav"
+	}
+}
+
+"Player.DamageHeadShot.t_militia"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"rndwave"
+	{
+		"wave"		"player/t_militia/headshot1.wav"
+		"wave"		"player/t_militia/headshot2.wav"
+		"wave"		"player/t_militia/headshot3.wav"
+	}
+}
+
+"Player.DamageKevlar.t_militia"
+{
+	"channel"	"CHAN_BODY"
+	"volume"	"VOL_NORM"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"rndwave"
+	{
+		"wave"		"player/t_militia/bhit_kevlar-1.wav"
+		"wave"		"player/t_militia/hs_bhit_flesh-1.wav"
+		"wave"		"player/t_militia/hs_bhit_flesh-2.wav"
+		"wave"		"player/t_militia/hs_bhit_flesh-3.wav"
+	}
+}

@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/ct_gsg9"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$translucent" 1
+}

@@ -1,0 +1,82 @@
+"Flesh.BulletImpact.ct_gsg9"
+{
+	"CompatibilityAttenuation"	"1.0"
+	"volume"		"0.7"
+	"pitch"			"PITCH_NORM"
+	"rndwave"
+	{
+		"wave"	"player/ct_gsg9/bhit_flesh-1.wav"
+		"wave"	"player/ct_gsg9/bhit_flesh-2.wav"
+		"wave"	"player/ct_gsg9/bhit_flesh-3.wav"
+	}
+}
+
+"Player.DamageHelmet.ct_gsg9"
+{
+	"channel"	"CHAN_BODY"
+	"volume"	"VOL_NORM"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"	"player/ct_gsg9/bhit_helmet-1.wav"
+}
+
+"Player.FallDamage.ct_gsg9"
+{
+	"channel"	"CHAN_BODY"
+	"volume"	"VOL_NORM"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"rndwave"
+	{
+		"wave"		"player/ct_gsg9/damage1.wav"
+		"wave"		"player/ct_gsg9/damage2.wav"
+		"wave"		"player/ct_gsg9/damage3.wav"
+	}
+}
+
+"Player.Death.ct_gsg9"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"CompatibilityAttenuation"	"1.0"
+
+	"rndwave"
+	{
+		"wave"	"player/ct_gsg9/die1.wav"
+		"wave"	"player/ct_gsg9/die2.wav"
+		"wave"	"player/ct_gsg9/die3.wav"
+	}
+}
+
+"Player.DamageHeadShot.ct_gsg9"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"rndwave"
+	{
+		"wave"		"player/ct_gsg9/headshot1.wav"
+		"wave"		"player/ct_gsg9/headshot2.wav"
+		"wave"		"player/ct_gsg9/headshot3.wav"
+	}
+}
+
+"Player.DamageKevlar.ct_gsg9"
+{
+	"channel"	"CHAN_BODY"
+	"volume"	"VOL_NORM"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"rndwave"
+	{
+		"wave"		"player/ct_gsg9/bhit_kevlar-1.wav"
+		"wave"		"player/ct_gsg9/hs_bhit_flesh-1.wav"
+		"wave"		"player/ct_gsg9/hs_bhit_flesh-2.wav"
+		"wave"		"player/ct_gsg9/hs_bhit_flesh-3.wav"
+	}
+}

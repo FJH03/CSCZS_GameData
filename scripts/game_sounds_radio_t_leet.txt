@@ -1,0 +1,226 @@
+// RADIO MESSAGES
+radio.moveout.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/moveout.wav
+}
+
+radio.letsgo.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/letsgo.wav
+}
+
+radio.locknload.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/locknload.wav
+}
+
+radio.go.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/go.wav
+}
+
+
+
+radio.vip.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/vip.wav
+}
+
+Radio.CoverMe.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/ct_coverme.wav
+}
+
+Radio.YouTakeThePoint.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/takepoint.wav
+}
+
+Radio.HoldPosition.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/position.wav
+}
+
+Radio.Regroup.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/regroup.wav
+}
+
+Radio.FollowMe.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/followme.wav
+}
+
+Radio.TakingFire.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/fireassis.wav
+}
+
+Radio.GoGoGo.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/com_go.wav
+}
+
+Radio.TeamFallBack.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/fallback.wav
+}
+
+Radio.StickTogether.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/sticktog.wav
+}
+
+Radio.GetInPosition.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/com_getinpos.wav
+}
+
+Radio.StormFront.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/stormfront.wav
+}
+
+Radio.ReportInTeam.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/com_reportin.wav
+}
+
+Radio.Affirmitive.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/ct_affirm.wav
+}
+
+Radio.Roger.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/roger.wav
+}
+
+Radio.EnemySpotted.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/ct_enemys.wav
+}
+
+Radio.NeedBackup.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/ct_backup.wav
+}
+
+Radio.SectorClear.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/clear.wav
+}
+
+Radio.InPosition.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/ct_inpos.wav
+}
+
+Radio.ReportingIn.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/ct_reportingin.wav
+}
+
+Radio.GetOutOfThere.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/blow.wav
+}
+
+Radio.Negative.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/negative.wav
+}
+
+Radio.EnemyDown.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/enemydown.wav
+}
+
+Radio.FireInTheHole.t_leet
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_leet/ct_fireinhole.wav
+}

@@ -1,0 +1,226 @@
+// RADIO MESSAGES
+radio.moveout.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/moveout.wav
+}
+
+radio.letsgo.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/letsgo.wav
+}
+
+radio.locknload.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/locknload.wav
+}
+
+radio.go.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/go.wav
+}
+
+
+
+radio.vip.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/vip.wav
+}
+
+Radio.CoverMe.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/ct_coverme.wav
+}
+
+Radio.YouTakeThePoint.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/takepoint.wav
+}
+
+Radio.HoldPosition.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/position.wav
+}
+
+Radio.Regroup.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/regroup.wav
+}
+
+Radio.FollowMe.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/followme.wav
+}
+
+Radio.TakingFire.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/fireassis.wav
+}
+
+Radio.GoGoGo.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/com_go.wav
+}
+
+Radio.TeamFallBack.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/fallback.wav
+}
+
+Radio.StickTogether.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/sticktog.wav
+}
+
+Radio.GetInPosition.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/com_getinpos.wav
+}
+
+Radio.StormFront.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/stormfront.wav
+}
+
+Radio.ReportInTeam.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/com_reportin.wav
+}
+
+Radio.Affirmitive.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/ct_affirm.wav
+}
+
+Radio.Roger.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/roger.wav
+}
+
+Radio.EnemySpotted.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/ct_enemys.wav
+}
+
+Radio.NeedBackup.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/ct_backup.wav
+}
+
+Radio.SectorClear.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/clear.wav
+}
+
+Radio.InPosition.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/ct_inpos.wav
+}
+
+Radio.ReportingIn.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/ct_reportingin.wav
+}
+
+Radio.GetOutOfThere.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/blow.wav
+}
+
+Radio.Negative.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/negative.wav
+}
+
+Radio.EnemyDown.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/enemydown.wav
+}
+
+Radio.FireInTheHole.t_arctic
+{
+	channel		CHAN_VOICE
+	volume		1
+	soundlevel	SNDLVL_75db
+	wave		radio/t_arctic/ct_fireinhole.wav
+}

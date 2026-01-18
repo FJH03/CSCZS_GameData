@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+"$basetexture" "Decals/flesh/Blood2"
+"$translucent" 1
+"$decal" 1
+"$decalscale" 0.04
+}

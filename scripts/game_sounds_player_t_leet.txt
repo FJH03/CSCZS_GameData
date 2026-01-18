@@ -1,0 +1,82 @@
+"Flesh.BulletImpact.t_leet"
+{
+	"CompatibilityAttenuation"	"1.0"
+	"volume"		"0.7"
+	"pitch"			"PITCH_NORM"
+	"rndwave"
+	{
+		"wave"	"player/t_leet/bhit_flesh-1.wav"
+		"wave"	"player/t_leet/bhit_flesh-2.wav"
+		"wave"	"player/t_leet/bhit_flesh-3.wav"
+	}
+}
+
+"Player.DamageHelmet.t_leet"
+{
+	"channel"	"CHAN_BODY"
+	"volume"	"VOL_NORM"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"	"player/t_leet/bhit_helmet-1.wav"
+}
+
+"Player.FallDamage.t_leet"
+{
+	"channel"	"CHAN_BODY"
+	"volume"	"VOL_NORM"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"rndwave"
+	{
+		"wave"		"player/t_leet/damage1.wav"
+		"wave"		"player/t_leet/damage2.wav"
+		"wave"		"player/t_leet/damage3.wav"
+	}
+}
+
+"Player.Death.t_leet"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"CompatibilityAttenuation"	"1.0"
+
+	"rndwave"
+	{
+		"wave"	"player/t_leet/die1.wav"
+		"wave"	"player/t_leet/die2.wav"
+		"wave"	"player/t_leet/die3.wav"
+	}
+}
+
+"Player.DamageHeadShot.t_leet"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"rndwave"
+	{
+		"wave"		"player/t_leet/headshot1.wav"
+		"wave"		"player/t_leet/headshot2.wav"
+		"wave"		"player/t_leet/headshot3.wav"
+	}
+}
+
+"Player.DamageKevlar.t_leet"
+{
+	"channel"	"CHAN_BODY"
+	"volume"	"VOL_NORM"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"rndwave"
+	{
+		"wave"		"player/t_leet/bhit_kevlar-1.wav"
+		"wave"		"player/t_leet/hs_bhit_flesh-1.wav"
+		"wave"		"player/t_leet/hs_bhit_flesh-2.wav"
+		"wave"		"player/t_leet/hs_bhit_flesh-3.wav"
+	}
+}

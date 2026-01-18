@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/t_militia"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$translucent" 1
+}

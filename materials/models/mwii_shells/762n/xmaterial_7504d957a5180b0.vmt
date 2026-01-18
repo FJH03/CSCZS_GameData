@@ -1,0 +1,26 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models\mwii_shells\762n\xmaterial_7504d957a5180b0_rgb"
+    "$bumpmap" "models\mwii_shells\762n\xmaterial_7504d957a5180b0_n"
+    "$phongexponenttexture" "models\mwii_shells\762n\xmaterial_7504d957a5180b0_e"
+
+    "$color2" "[ .3 .3 .3 ]"
+    "$blendtintbybasealpha" "1"
+
+    "$phong" "1"
+    "$phongboost" "8"
+	"$phongexponent" "16"
+    "$phongfresnelranges" "[1 0.5 0]"
+    "$phongalbedotint" "1"
+
+    //rimlight doesn't properly show in hlmv, make sure you're changing these values in game
+    "$rimlight" "1"
+    "$rimlightexponent" "50"
+    "$rimmask" "1"
+    "$rimlightboost" "4.5"
+
+    "$normalmapalphaenvmapmask" "1"
+    "$envmapfresnel" ".5"
+    "$envmap" "env_cubemap"
+    "$envmaptint" "[ .15 .15 .15 ]"
+}

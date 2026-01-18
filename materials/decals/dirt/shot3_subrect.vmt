@@ -1,0 +1,8 @@
+"Subrect"
+{
+	"$Material" "decals/decals_mod3x"
+	"$Pos" "0 416"
+	"$Size" "32 32"
+	"$decalscale" 0.10
+	"$modelmaterial" "decals\concrete\shot3"
+}
