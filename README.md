@@ -1,1 +1,1 @@
-# CS:CZS 游戏数据包(czero.vpk源文件)
+# CS:CZS 游戏数据包(包括czero.vpk源文件)
