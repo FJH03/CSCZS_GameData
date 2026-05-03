@@ -186,16 +186,30 @@ DESCRIPTION SERVER_OPTIONS
 		{ "4.0" }
 	}
 	
-	"mp_respawn_on_death_ct"
+	"mp_deathmatch"
 	{
-		"#Cstrike_Allow_ct_respawn"
+		"#Cstrike_Is_DeathMatch"
 		{ BOOL }
 		{ "" }
 	}
-	
-	"mp_respawn_on_death_t"
+
+	"mp_buy_anywhere"
 	{
-		"#Cstrike_Allow_t_respawn"
+		"#Cstrike_Is_BuyAnyWhere"
+		{ BOOL }
+		{ "" }
+	}
+
+	"mp_randomSpawn"
+	{
+		"#Cstrike_Is_RandomSpawn"
+		{ BOOL }
+		{ "" }
+	}
+
+	"mp_buy_during_immunity"
+	{
+		"#Cstrike_Is_BuyDuringImmunity"
 		{ BOOL }
 		{ "" }
 	}
