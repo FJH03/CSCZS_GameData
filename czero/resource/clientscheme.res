@@ -20,9 +20,17 @@ Scheme
 		"OrangeDim"			"255 176 0 120"
 		"LightOrange"		"188 112 0 128"
 		
+		"Green"				"28 207 61 255"
+		"GreenDim"			"28 207 61 120"
+		"LightGreen"		"28 207 61 128"
+
+		// "Normal" = gHUD.m_clrNormal for pickup history (grenade/equipment icons).
+		// Default 255 208 64, buried in hud.cpp. Not in any .res file.
+		// Fucking Valve: ship a scheme key with no definition anywhere.
+		"Normal"			"28 207 61 255"
+		
 		"Red"				"192 28 0 140"
 		"Black"				"0 0 0 255"
-		"Green"             "0 255 0 150"
 		"TransparentBlack"	"0 0 0 196"
 		"TransparentLightBlack"	"0 0 0 90"
 		"RoundWinPanelBackground" "0 0 0 179"
@@ -45,28 +53,28 @@ Scheme
 	BaseSettings
 	{
 		// vgui_controls color specifications
-		Border.Bright					"LightOrange"		// the lit side of a control
-		Border.Dark						"LightOrange"		// the dark/unlit side of a control
+		Border.Bright					"LightGreen"		// the lit side of a control
+		Border.Dark						"LightGreen"		// the dark/unlit side of a control
 		Border.Selection				"Blank"				// the additional border color for displaying the default/selected button
-		Border.BuyPreset				"Orange"
+		Border.BuyPreset				"Green"
 
 
-		Button.TextColor				"Orange"
+		Button.TextColor				"Green"
 		Button.BgColor					"0 0 0 64"
-		Button.ArmedTextColor			"Orange"
-		Button.ArmedBgColor				"Red"
-		Button.DepressedTextColor		"Orange"
-		Button.DepressedBgColor			"Red"
+		Button.ArmedTextColor			"Green"
+		Button.ArmedBgColor				"GreenDim"
+		Button.DepressedTextColor		"Green"
+		Button.DepressedBgColor			"GreenDim"
 
-		CheckButton.TextColor			"Orange"
-		CheckButton.SelectedTextColor	"Orange"
+		CheckButton.TextColor			"Green"
+		CheckButton.SelectedTextColor	"Green"
 		CheckButton.BgColor				"TransparentBlack"
 		CheckButton.Border1  			"Border.Dark" 		// the left checkbutton border
 		CheckButton.Border2  			"Border.Bright"		// the right checkbutton border
-		CheckButton.Check				"Orange"				// color of the check itself
+		CheckButton.Check				"Green"				// color of the check itself
 
-		ComboBoxButton.ArrowColor		"Orange"
-		ComboBoxButton.ArmedArrowColor	"Orange"
+		ComboBoxButton.ArrowColor		"Green"
+		ComboBoxButton.ArmedArrowColor	"Green"
 		ComboBoxButton.BgColor			"TransparentBlack"
 		ComboBoxButton.DisabledBgColor	"Blank"
 
@@ -85,28 +93,28 @@ Scheme
 		FrameSystemButton.BgColor		"Blank"
 		FrameSystemButton.Icon			""
 		FrameSystemButton.DisabledIcon	""
-		FrameTitleBar.TextColor			"Orange"
+		FrameTitleBar.TextColor			"Green"
 		FrameTitleBar.BgColor			"Blank"
-		FrameTitleBar.DisabledTextColor	"Orange"
+		FrameTitleBar.DisabledTextColor	"Green"
 		FrameTitleBar.DisabledBgColor	"Blank"
 
 		GraphPanel.FgColor				"Green"
 		GraphPanel.BgColor				"TransparentBlack"
 
-		Label.TextDullColor				"Orange"
-		Label.TextColor					"Orange"
-		Label.TextBrightColor			"Orange"
-		Label.SelectedTextColor			"Orange"
+		Label.TextDullColor				"Green"
+		Label.TextColor					"Green"
+		Label.TextBrightColor			"Green"
+		Label.SelectedTextColor			"Green"
 		Label.BgColor					"Blank"
 		Label.DisabledFgColor1			"Blank"
-		Label.DisabledFgColor2			"LightOrange"
+		Label.DisabledFgColor2			"LightGreen"
 
-		ListPanel.TextColor					"Orange"
+		ListPanel.TextColor					"Green"
 		ListPanel.BgColor					"TransparentBlack"
 		ListPanel.SelectedTextColor			"Black"
 		ListPanel.SelectedBgColor			"Red"
 		ListPanel.SelectedOutOfFocusBgColor	"Red"
-		ListPanel.EmptyListInfoTextColor	"Orange"
+		ListPanel.EmptyListInfoTextColor	"Green"
 
 		Menu.TextColor					"Orange"
 		Menu.BgColor					"TransparentBlack"
@@ -187,7 +195,7 @@ Scheme
 		WizardSubPanel.BgColor		"Blank"
 
 		// scheme-specific colors
-		"FgColor"		"Orange"
+		"FgColor"		"Green"
 		"BgColor"		"TransparentBlack"
 
 		"ViewportBG"		"Blank"
@@ -195,7 +203,7 @@ Scheme
 		"team1"			"255 64 64 255" // CT's
 		"team2"			"153 204 255 255" // T's
 
-		"MapDescriptionText"	"Orange" // the text used in the map description window
+		"MapDescriptionText"	"Green" // the text used in the map description window
 		"CT_Blue"			"153 204 255 255"
 		"T_Red"				"255 64 64 255"
 		"Hostage_Yellow"	"Panel.FgColor"
@@ -208,8 +216,8 @@ Scheme
 		"MenuBoxBg"		"0 0 0 100"
 
 		// weapon selection colors
-		"SelectionNumberFg"		"255 220 0 200"
-		"SelectionTextFg"		"255 220 0 200"
+		"SelectionNumberFg"		"28 207 61 200"
+		"SelectionTextFg"		"28 207 61 200"
 		"SelectionEmptyBoxBg" 	"0 0 0 80"
 		"SelectionBoxBg" 		"0 0 0 80"
 		"SelectionSelectedBoxBg" "0 0 0 190"
