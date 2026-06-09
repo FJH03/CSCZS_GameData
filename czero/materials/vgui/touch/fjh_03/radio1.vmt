@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui\touch\FJH_03\radio1"
+	"$translucent" 1
+	"$ignorez" 1
+	"$alpha" 0.1
+}

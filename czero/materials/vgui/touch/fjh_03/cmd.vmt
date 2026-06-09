@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui\touch\FJH_03\cmd"
+	"$translucent" 1
+	"$ignorez" 1
+	"$alpha" 0.1
+}
