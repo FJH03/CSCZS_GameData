@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	$baseTexture 			  "models/chicken/chicken_catalan_black_white_head_color"
+	$bumpMap				  "models/chicken/chicken_normal"
+}

@@ -1,0 +1,5 @@
+"SpriteCard"
+{
+	"$baseTexture" "particle\feathers/feather"
+	"$blendframes" "0"
+}
